@@ -1,0 +1,22 @@
+<head>
+
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    TeX: { equationNumbers: { autoNumber: "AMS" }},
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    },
+    "HTML-CSS": { matchFontHeight: false },
+    displayAlign: "left",
+    displayIndent: "2em"
+  });
+</script>
+
+</head>
+
+光は真空中を1秒間に約 $3.0 × 10^8$ メートル進む。
+光速を $c$ で表す。
